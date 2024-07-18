@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vignesh2004vasu?tab=repositories](https://github.com/vignesh2004vasu?tab=repositories)
 
